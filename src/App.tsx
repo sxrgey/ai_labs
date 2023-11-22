@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import { MainPage } from "./Pages/MainPage";
-import { Lab1 } from "./Pages/Laba1";
+import { Lab1 } from "./Pages/Lab1";
 import { Lab2 } from "./Pages/Lab2";
 
 function App() {
